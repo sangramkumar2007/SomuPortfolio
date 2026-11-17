@@ -21,7 +21,7 @@ Message: ${form.message}`;
   return(
     <div className="portfolio">
       <nav className="navbar">
-        <h2 className="logo">Somu <span>.</span></h2>
+        <h2 className="logo">Sangram <span>.</span></h2>
         <div className="nav-links">
           <a href="#home">Home</a>
           <a href="#about">About</a>
@@ -33,7 +33,7 @@ Message: ${form.message}`;
         <section className="hero" id="home">
           <p className="welcome">WELCOME TO MY PORTFOLIO</p>
           <h1>
-            Hi, I'm <span>Somu</span>
+            Hi, I'm <span>Sangram</span>
           </h1>
           <h2>Java & Python Developer</h2>
           <p className="description">I build applications, explore new technologies and create solutions through code.</p>
@@ -47,8 +47,8 @@ Message: ${form.message}`;
             </a>
 
             <a
-              href="/Somu_Resume.pdf"
-              download="Somu_Resume.pdf"
+              href="/Sangram_Kumar_Mohapatra_Resume.pdf"
+              download="Sangram_Kumar_Mohapatra_Resume.pdf"
               className="primary-btn"
             >
               Download Resume ↓
@@ -77,7 +77,7 @@ Message: ${form.message}`;
           <p className="section-title"> GET TO KNOW ME</p>
           <h2>About <span>Me</span></h2>
           <p className="about-text">
-  Hello! I'm Somu, a passionate Java and Python Developer
+  Hello! I'm Sangram Kumar Mohapatra, a passionate Java and Python Developer
   interested in building real-world applications.
   I enjoy learning new technologies, solving problems,
   exploring cybersecurity, and continuously improving
@@ -257,7 +257,7 @@ Message: ${form.message}`;
 
 
         <footer>
-          © 2026 SomuPortfolio. Build With React.
+          © 2026 SangramPortfolio. Build With React.
         </footer>
       </div>
   )
